@@ -1,0 +1,30 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing:border-box;
+}
+body{
+  font-weight: bold;
+}
+
+.container {
+  background-image:  url(../img/bg-home-hero-3-bb4b33b77274db09b969f629ad81c4d5.svg);
+  margin-bottom: 0;
+  background-size: contain;
+  color: white;
+  text-align: center;
+  height: 330px;
+}
+#random_password{
+  color: red;
+  font-weight: bolder;
+}
+
+h3{
+  display: inline;
+  text-align: center;
+}
+.password{
+  text-align: center;
+  display: inline;
+}
