@@ -6,6 +6,17 @@
 body{
   font-weight: bold;
 }
+h1{
+  color: gold;
+}
+h2{
+  font-style: italic;
+}
+h3{
+  display: inline;
+  text-align: center;
+  font-style: italic;
+}
 
 .container {
   background-image:  url(../img/bg-home-hero-3-bb4b33b77274db09b969f629ad81c4d5.svg);
@@ -20,10 +31,6 @@ body{
   font-weight: bolder;
 }
 
-h3{
-  display: inline;
-  text-align: center;
-}
 .password{
   text-align: center;
   display: inline;
